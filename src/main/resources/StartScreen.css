@@ -1,0 +1,31 @@
+.statusText {
+    -fx-font: 40px "Normal";
+    -fx-padding: 10;
+    -fx-text-fill: green;
+}
+
+.vbox {
+    -fx-padding: 10;
+    -fx-spacing: 30;
+}
+
+.buttons {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font: 40px "Century";
+    -fx-background-radius: 20, 10;
+    -fx-background-insets: 5, 1;
+}
+
+.back {
+    -fx-background-image: url('Front.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.Configback {
+    -fx-background-image: url('ConfigBack.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
